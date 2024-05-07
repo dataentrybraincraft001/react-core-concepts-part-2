@@ -1,0 +1,35 @@
+// import React from 'react'
+
+// const App = () => {
+
+//   function handelCilck(){
+//     alert('what is your name')
+//   }
+
+//   const handelCilck2 = () =>{
+//     confirm('What is your orginal name!!!')
+//   }
+
+//   const addnum =(num) =>{
+//     alert(num + 5);
+//   }
+
+//   return (
+//     <div className='text-center mt-20 '>
+//       <h1 className='text-5xl'>React Core Concepts 2</h1>
+//       <button onClick={handelCilck} className='mt-10 border border-purple-600 rounded-lg px-4 py-2 mr-4'>Click Me</button>
+
+//       <button onClick={handelCilck2} className='mt-10 border border-purple-600 rounded-lg px-4 py-2 mr-4'>Click Me again</button>
+
+//       <button onClick={() => {prompt('tmi ki tomar bolte paro nah')}} className='mt-10 border border-purple-600 rounded-lg px-4 py-2 mr-4'>Now Click Me</button>
+
+//       <button onClick={() => addnum(3)} className='mt-10 border border-purple-600 rounded-lg px-4 py-2  ' >Add Sum</button>
+
+//     </div>
+//   )
+// }
+
+// export default App;
+
+
+
